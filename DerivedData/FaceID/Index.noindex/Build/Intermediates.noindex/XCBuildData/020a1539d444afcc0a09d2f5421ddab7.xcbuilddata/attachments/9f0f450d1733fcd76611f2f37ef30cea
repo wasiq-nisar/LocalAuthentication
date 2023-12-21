@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Index.noindex/Build/Intermediates.noindex/FaceID.build/Debug-iphonesimulator/FaceID.build/Objects-normal/x86_64/FaceID-master.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Index.noindex/Build/Intermediates.noindex/FaceID.build/Debug-iphonesimulator/FaceID.build/Objects-normal/x86_64/FaceID-master.dia",
+    "emit-module-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Index.noindex/Build/Intermediates.noindex/FaceID.build/Debug-iphonesimulator/FaceID.build/Objects-normal/x86_64/FaceID-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Index.noindex/Build/Intermediates.noindex/FaceID.build/Debug-iphonesimulator/FaceID.build/Objects-normal/x86_64/FaceID-master-emit-module.dia",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Index.noindex/Build/Intermediates.noindex/FaceID.build/Debug-iphonesimulator/FaceID.build/Objects-normal/x86_64/FaceID-master.swiftdeps"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Index.noindex/Build/Intermediates.noindex/FaceID.build/Debug-iphonesimulator/FaceID.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/FaceID/AppDelegate.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/FaceID/SceneDelegate.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/FaceID/ViewController.swift" : {
+
+  }
+}

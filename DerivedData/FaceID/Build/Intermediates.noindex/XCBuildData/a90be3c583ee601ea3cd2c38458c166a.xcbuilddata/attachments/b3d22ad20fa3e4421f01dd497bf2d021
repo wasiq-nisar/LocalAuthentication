@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/FaceID-master.dia",
+    "emit-module-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/FaceID-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/FaceID-master-emit-module.dia",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/FaceID-master.swiftdeps"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/FaceID/AppDelegate.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/FaceID/Authentication.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/Authentication.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/Authentication.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/Authentication.dia",
+    "index-unit-output-path" : "/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/Authentication.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/Authentication.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/Authentication.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/Authentication.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/Authentication~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/FaceID/SceneDelegate.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/FaceID/ViewController.swift" : {
+    "const-values" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/muhammadwasiq/Desktop/Wasiq/FaceID/DerivedData/FaceID/Build/Intermediates.noindex/FaceID.build/Debug-iphoneos/FaceID.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  }
+}
