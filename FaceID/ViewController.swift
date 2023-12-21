@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         if Authentication.shared.isFaceIDAvailable() {
             // Face ID is enabled
             // Add your logic here
+            Authentication.shared.checkFaceID()
         } else {
             // Face ID is not available or not enabled
             // Add your logic here

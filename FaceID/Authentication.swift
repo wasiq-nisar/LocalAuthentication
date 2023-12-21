@@ -49,4 +49,20 @@ class Authentication {
             return false
         }
     }
+    
+    func checkFaceID() {
+        context.evaluatePolicy(.deviceOwnerAuthenticationWithBiometrics, localizedReason: "Authenticate with Face ID") { (success, error) in
+            if success {
+                // Biometric authentication successful
+                print("Biometric authentication successful")
+            } else {
+                // Biometric authentication failed or was canceled
+                if let error = error {
+                    print("Biometric authentication error: \(error.localizedDescription)")
+                } else {
+                    print("Biometric authentication failed or canceled")
+                }
+            }
+        }
+    }
 }

@@ -6,10 +6,10 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>390C4544-F3AA-4E77-B9E6-43AA5E9B00F3</key>
+		<key>47EE006E-1210-4E82-B7F0-864271F574AF</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7C21340B-CC8B-485B-8CC9-7DDC30F81E6D</string>
+			<string>72DF70EF-0BE8-4B51-B2BA-510CF73C3C05</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,190 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-FaceID-2023.12.21_12-18-08-+0500.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>FaceID project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>FaceID</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run FaceID</string>
-			<key>timeStartedRecording</key>
-			<real>724835888.32150197</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run FaceID</string>
-			<key>uniqueIdentifier</key>
-			<string>390C4544-F3AA-4E77-B9E6-43AA5E9B00F3</string>
-		</dict>
-		<key>BEC020B9-304B-42E7-87E5-C16840B21043</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C91121DD-6AE7-465D-95F2-A3D9E15C360A</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>12</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-FaceID-2023.12.21_12-17-50-+0500.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>12</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>FaceID project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>FaceID</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run FaceID</string>
-			<key>timeStartedRecording</key>
-			<real>724835870.785887</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run FaceID</string>
-			<key>uniqueIdentifier</key>
-			<string>BEC020B9-304B-42E7-87E5-C16840B21043</string>
-		</dict>
-		<key>D4E35559-AC06-414A-8A64-748A2C48F256</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F8FCE1DE-F342-4BC0-BE83-9E5F09F70A89</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-FaceID-2023.12.21_12-21-09-+0500.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>FaceID project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>FaceID</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run FaceID</string>
-			<key>timeStartedRecording</key>
-			<real>724836069.16511095</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run FaceID</string>
-			<key>uniqueIdentifier</key>
-			<string>D4E35559-AC06-414A-8A64-748A2C48F256</string>
-		</dict>
-		<key>E8BEC119-0020-4F49-8061-0BE82D5633B5</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BEFD97A5-3EB0-4B81-B959-1ABA60C62649</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-FaceID-2023.12.21_12-13-15-+0500.xcresult</string>
+			<string>Run-FaceID-2023.12.21_12-23-34-+0500.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -242,13 +59,135 @@
 			<key>signature</key>
 			<string>Run FaceID</string>
 			<key>timeStartedRecording</key>
-			<real>724835595.49136996</real>
+			<real>724836214.40261197</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run FaceID</string>
 			<key>uniqueIdentifier</key>
-			<string>E8BEC119-0020-4F49-8061-0BE82D5633B5</string>
+			<string>47EE006E-1210-4E82-B7F0-864271F574AF</string>
+		</dict>
+		<key>4D6A6D49-28F7-475C-8E82-727C68EF7E38</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D5EE9EEB-1B47-41CC-B410-DBD19ACD1E45</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-FaceID-2023.12.21_16-39-14-+0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FaceID project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FaceID</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run FaceID</string>
+			<key>timeStartedRecording</key>
+			<real>724851554.96701002</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run FaceID</string>
+			<key>uniqueIdentifier</key>
+			<string>4D6A6D49-28F7-475C-8E82-727C68EF7E38</string>
+		</dict>
+		<key>69FE7C79-0FA5-41F3-B396-C7415C7F421B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>54716E47-0F23-40EB-954D-982212CF3977</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-FaceID-2023.12.21_16-40-11-+0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FaceID project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FaceID</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run FaceID</string>
+			<key>timeStartedRecording</key>
+			<real>724851611.96576405</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run FaceID</string>
+			<key>uniqueIdentifier</key>
+			<string>69FE7C79-0FA5-41F3-B396-C7415C7F421B</string>
 		</dict>
 	</dict>
 </dict>
